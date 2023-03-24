@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_variables_property name="org.python.pydev.PROJECT_VARIABLE_SUBSTITUTION">
+        <key>env_var:ChocolateyInstall</key>
+        <value>C:\ProgramData\chocolatey</value>
+        <key>PY</key>
+        <value>39</value>
+        <key>env_var:PROCESSOR_REVISION</key>
+        <value>8e09</value>
+        <key>env_var:ProgramFiles</key>
+        <value>C:\Program Files</value>
+        <key>env_var:USERDOMAIN_ROAMINGPROFILE</key>
+        <value>DESKTOP-KQCQKCB</value>
+        <key>env_var:PROCESSOR_ARCHITECTURE</key>
+        <value>AMD64</value>
+        <key>env_var:CommonProgramFiles(x86)</key>
+        <value>C:\Program Files (x86)\Common Files</value>
+        <key>env_var:PATHEXT</key>
+        <value>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW</value>
+        <key>env_var:USERDOMAIN</key>
+        <value>DESKTOP-KQCQKCB</value>
+        <key>env_var:NUMBER_OF_PROCESSORS</key>
+        <value>4</value>
+        <key>env_var:PT6HOME</key>
+        <value>D:\New folder\Cisco Packet Tracer 6.0.1</value>
+        <key>env_var:=D:</key>
+        <value>D:\</value>
+        <key>env_var:IntelliJ IDEA Community Edition</key>
+        <value>D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\bin;</value>
+        <key>env_var:windir</key>
+        <value>C:\Windows</value>
+        <key>env_var:ProgramFiles(x86)</key>
+        <value>C:\Program Files (x86)</value>
+        <key>env_var:PT5HOME</key>
+        <value>D:\New folder\Cisco Packet Tracer 6.0.1</value>
+        <key>env_var:OS</key>
+        <value>Windows_NT</value>
+        <key>env_var:ComSpec</key>
+        <value>C:\Windows\system32\cmd.exe</value>
+        <key>env_var:HOMEPATH</key>
+        <value>\Users\Dell</value>
+        <key>env_var:PT7HOME</key>
+        <value>D:\Cisco Packet Tracer 7.2</value>
+        <key>env_var:OneDriveConsumer</key>
+        <value>C:\Users\Dell\OneDrive</value>
+        <key>env_var:ProgramData</key>
+        <value>C:\ProgramData</value>
+        <key>env_var:SystemRoot</key>
+        <value>C:\Windows</value>
+        <key>env_var:PUBLIC</key>
+        <value>C:\Users\Public</value>
+        <key>env_var:CommonProgramW6432</key>
+        <value>C:\Program Files\Common Files</value>
+        <key>env_var:TMP</key>
+        <value>C:\Users\Dell\AppData\Local\Temp</value>
+        <key>env_var:FPS_BROWSER_USER_PROFILE_STRING</key>
+        <value>Default</value>
+        <key>env_var:LOGONSERVER</key>
+        <value>\\DESKTOP-KQCQKCB</value>
+        <key>env_var:ALLUSERSPROFILE</key>
+        <value>C:\ProgramData</value>
+        <key>env_var:CommonProgramFiles</key>
+        <value>C:\Program Files\Common Files</value>
+        <key>env_var:COMPUTERNAME</key>
+        <value>DESKTOP-KQCQKCB</value>
+        <key>DJANGO_MANAGE_LOCATION</key>
+        <value>manage.py</value>
+        <key>env_var:FRONTLIC</key>
+        <value>C:\ProgramData\Frontline Systems\Solver.lic</value>
+        <key>env_var:VBOX_MSI_INSTALL_PATH</key>
+        <value>F:\Oracle\VirtualBox\</value>
+        <key>env_var:Path</key>
+        <value>D:/Program Files/Java/jdk-13.0.2/bin/server;D:/Program Files/Java/jdk-13.0.2/bin;F:\Java2\jdk1.8.0_333\bin;D:\NF\dbhomeXE\bin;D:\NewFolder\dbhomeXE\bin;D:\oracle\dbhomeXE\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;D:\New folder (2)\My Screen Recorder Pro 5\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;%HADOOP_HOME%\bin;%JAVA_HOME%\bin;F:\New folder (2)\apache-maven-3.8.7-bin (1)\apache-maven-3.8.7\bin;;C:\Program Files\Docker\Docker\resources\bin;D:\Edgenet\Ruby31-x64\bin;F:\Ruby31-x64\bin;D:\Program Files (x86)\Frontline Systems\Analytic Solver Platform\Bin;C:\Users\Dell\AppData\Local\Microsoft\WindowsApps;D:\python\Scripts;D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\bin;;D:\Program Files\Java\jdk-13.0.2\bin;D:\python;D:\Microsoft VS Code\bin;C:\Users\Dell\.dotnet\tools;D:\python\Scripts\esptool.py;D:\mysql\bin;F:\Java2\jdk1.8.0_333\bin;F:\masm32\bin;%HADOOP_HOME%\sbin;%HADOOP_HOME%\bin;C:\Users\Dell\OneDrive\Desktop;</value>
+        <key>env_var:OneDrive</key>
+        <value>C:\Users\Dell\OneDrive</value>
+        <key>env_var:QT_DEVICE_PIXEL_RATIO</key>
+        <value>auto</value>
+        <key>env_var:ZES_ENABLE_SYSMAN</key>
+        <value>1</value>
+        <key>env_var:SystemDrive</key>
+        <value>C:</value>
+        <key>env_var:ChocolateyLastPathUpdate</key>
+        <value>132696091989712132</value>
+        <key>env_var:VS140COMNTOOLS</key>
+        <value>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\</value>
+        <key>env_var:PROCESSOR_IDENTIFIER</key>
+        <value>Intel64 Family 6 Model 142 Stepping 9, GenuineIntel</value>
+        <key>env_var:TEMP</key>
+        <value>C:\Users\Dell\AppData\Local\Temp</value>
+        <key>env_var:PSModulePath</key>
+        <value>C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules</value>
+        <key>env_var:ProgramW6432</key>
+        <value>C:\Program Files</value>
+        <key>env_var:PROCESSOR_LEVEL</key>
+        <value>6</value>
+        <key>env_var:DriverData</key>
+        <value>C:\Windows\System32\Drivers\DriverData</value>
+        <key>env_var:python</key>
+        <value>D:\python\Scripts</value>
+        <key>env_var:USERNAME</key>
+        <value>Dell</value>
+        <key>env_var:LOCALAPPDATA</key>
+        <value>C:\Users\Dell\AppData\Local</value>
+        <key>env_var:APPDATA</key>
+        <value>C:\Users\Dell\AppData\Roaming</value>
+        <key>env_var:FPS_BROWSER_APP_PROFILE_STRING</key>
+        <value>Internet Explorer</value>
+        <key>DJANGO_SETTINGS_MODULE</key>
+        <value>Tutopia.settings</value>
+        <key>env_var:=::</key>
+        <value>::\</value>
+        <key>env_var:JAVA_HOME1</key>
+        <value>F:\Java2\jdk1.8.0_333</value>
+        <key>env_var:HOMEDRIVE</key>
+        <value>C:</value>
+        <key>env_var:USERPROFILE</key>
+        <value>C:\Users\Dell</value>
+        <key>env_var:SESSIONNAME</key>
+        <value>Console</value>
+    </pydev_variables_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}</path>
+    </pydev_pathproperty>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 3.8</pydev_property>
+</pydev_project>
